@@ -1,0 +1,16 @@
+{
+    "name": "english-words-dwyl",
+    "version": "0.0.1",
+    "description": "A text file containing 466k English words",
+    "main": "./words_dictionnary.json",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "english",
+      "words"
+    ],
+    "author": "dwyl <hello+github@dwyl.com>",
+    "license": "unlicense",
+    "devDependencies": {}
+  }
